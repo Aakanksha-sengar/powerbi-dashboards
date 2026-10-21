@@ -13,7 +13,8 @@ Two interactive Power BI dashboards: a **cricket player performance dashboard** 
 
 **Business question:** how has Virat Kohli's batting performance changed over the years and across formats (ODI, Test, T20I)?
 
-![Virat Kohli Career Statistics Dashboard](images/virat_kohli_dashboard.png)
+![Virat Kohli Career Statistics Dashboard](<img width="713" height="472" alt="virat statistics" src="https://github.com/user-attachments/assets/2ef729e3-3973-479d-836b-074ddadfe347" />
+)
 
 **Dataset:** year-wise batting statistics of V Kohli from [CricMetric](https://www.cricmetric.com/playerstats.py?player=V%20Kohli).
 
